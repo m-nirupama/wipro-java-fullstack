@@ -1,4 +1,4 @@
-public class SumOfNonPrimeIndexesV1 {
+public class SumOfNonPrimeIndexesV {
     public int sumOfNonPrimeIndexes(int[] input1, int input2) {
         int sum = 0;
         for (int i = 0; i < input2; i++) {
