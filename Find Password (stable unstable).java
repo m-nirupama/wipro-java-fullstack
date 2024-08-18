@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class FindPasswordStableUnstableV1 {
+public class FindPasswordStableUnstableV{
     public int findPassword(int input1, int input2, int input3, int input4, int input5) {
         int[] nums = {input1, input2, input3, input4, input5};
         int stable = 0, unstable = 0;
