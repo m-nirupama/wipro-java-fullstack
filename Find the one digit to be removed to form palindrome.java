@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Remove1DigitForPalindromeV1 {
+public class Remove1DigitForPalindromeV {
     public int digitRemove_Palin(int input1) {
         String numStr = String.valueOf(input1);
 
