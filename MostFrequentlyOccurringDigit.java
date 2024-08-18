@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class MostFrequentlyOccurringDigitV1 {
+class MostFrequentlyOccurringDigitV{
     public int mostFrequentlyOccurringDigit(int[] input1, int input2) {
         HashMap<Integer, Integer> freqMap = new HashMap<>();
         for (int ip : input1) {
