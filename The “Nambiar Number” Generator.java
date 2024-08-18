@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class NambiarNumberGeneratorV1 {
+public class NambiarNumberGeneratorV{
     public int nnGenerator(String input1) {
         String mobileNo = input1;
         StringBuilder numbiarNo = new StringBuilder();
