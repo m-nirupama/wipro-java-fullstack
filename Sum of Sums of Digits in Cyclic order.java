@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class SumOfSumsOfDigitsInCyclicOrderV1 {
+class SumOfSumsOfDigitsInCyclicOrderV{
     public int sumOfSumsOfDigits(int input1) {
         String num = String.valueOf(input1);
         int sum = 0;
