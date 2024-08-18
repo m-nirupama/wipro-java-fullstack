@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>Semantic Tags 3</title>
+	</head>
+	<body>
+		<img alt="DogImage"  src="https://www.petfinder.com/static/d27b29766905bcf1a9a3765feb55b671/1c2a1/teddybear-dog-breeds.jpg" 
+		width="200" height="200" style="border:2px solid black">
+	</body>
+</html>
