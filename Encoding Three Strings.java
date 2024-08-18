@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class EncodingThreeStringsV1 {
+class EncodingThreeStringsV {
     public class Result {
         public final String output1;
         public final String output2;
