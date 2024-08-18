@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class IdentifyPossibleWordsV1 {
+class IdentifyPossibleWordsV {
     public String identifyPossibleWords(String input1, String input2) {
         input1 = input1.toUpperCase();
         StringBuilder output = new StringBuilder();
