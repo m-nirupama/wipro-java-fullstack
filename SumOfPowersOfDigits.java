@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class SumOfPowersOfDigitsV1 {
+class SumOfPowersOfDigitsV{
     public int sumOfPowerOfDigits(int input1) {
         if (input1 <= 9) return 0;
 
