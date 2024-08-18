@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class MsgControlledRobotV1 {
+public class MsgControlledRobotV{
     public String moveRobot(int input1, int input2, String input3, String input4) {
         int X = input1, Y = input2;
         String currentPos = input3, msg = input4;
