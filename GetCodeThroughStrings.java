@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class GetCodeThroughStringsV1 {
+class GetCodeThroughStringsV {
     public int getCodeThroughStrings(String input1) {
         String[] words = input1.split(" ");
         int pin = 0;
