@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class SimpleEncodedArrayV1 {
+class SimpleEncodedArrayV{
     public class Result {
         public final int output1;
         public final int output2;
